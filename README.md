@@ -1,5 +1,4 @@
-# RikoSueki-SeminarReport
-# RikoSueki-Zemireport
+## 2025gsc_RikoSueki
 ### 卒論発表用: 韓国における住所体系の変化と制度定着の課題-若年層における利用実態と地域差の分析-
 
 青山学院大学 地球社会共生学部 地球社会共生学科
